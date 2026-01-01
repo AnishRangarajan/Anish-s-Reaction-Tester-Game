@@ -13,7 +13,7 @@ Some challenges I faced, this was the first time I had ever done circuit CAD whe
 5x Blank DSA Keycaps
 4x M3x16 Bolt
 
-##Anish's Reaction Time Tester
+**Components:** <br>
 | Schematic | PCB Design | 3D Case |
 | :---: | :---: | :---: |
 | <img src="images/Schematic.png" width="250"> | <img src="images/PCB.png" width="250"> | <img src="images/CAD.png" width="250"> |
