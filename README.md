@@ -1,4 +1,4 @@
-##Anish's Reaction Tester Game
+## Anish's Reaction Tester Game
 
 **Inspiration:**
 I used to play with the game bop it when I was a kid and that was a game that would test my reaction time, when I saw this macropad all the different buttons reminded me of the game, so I decided to do the same. 
